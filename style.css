@@ -281,7 +281,8 @@ nav {
   }
   
   .about-pic {
-    border-radius: 2rem;
+    
+    border-radius: 2rem; 
   }
   
   .arrow {
